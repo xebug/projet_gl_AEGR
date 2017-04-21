@@ -1,5 +1,5 @@
 # projet_gl_AEGR
-Projet genie logiciel ALCARAZ Hugo, EL KADOURI Sofian, GILIBERT Kevin, RASSU Michael
+Projet génie logiciel ALCARAZ Hugo, EL KADOURI Soufiane, GILLIBERT Kevin, RASSU Michael
 
 -La carte doit être paramètrable, on verra la carte en entuer mais on ne sera pas où sont les monstres, le joueur se deplace dans 4 sens (haut, bas, gauche, droite), et des qu'il sera sur la même case qu'un monstre, un combat tour par tour sera lancé.
 
