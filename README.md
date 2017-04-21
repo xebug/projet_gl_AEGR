@@ -10,3 +10,5 @@ Projet genie logiciel ALCARAZ Hugo, EL KADOURI Sofian, GILIBERT Kevin, RASSU Mic
 -Les compétence des monstres seront aussi paramètrable.
 
 Tout ce que sera paramètrable sera mit dans un fichier .config pour simplifier sa modification par le client, ce qui implique qu'il faudra chargé ses fichiers config à chaque lancement du jeu.
+
+Si le joueur tue tous les monstres sur la carte, il a gagné, sinon il perd.
